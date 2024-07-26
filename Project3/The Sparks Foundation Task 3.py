@@ -3,7 +3,7 @@
 
 # # The Sparks Foundation
 # ### GRIP Septemer 2021 Batch 
-# ### Author: Teghpreet Singh Mago
+# ### Author: Jyotsna Bhatia
 # ### Task 3 : ‘Exploratory Data Analysis’ on dataset ‘Retail’
 
 # ### 1. Problem defintion
